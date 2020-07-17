@@ -10,10 +10,10 @@
 
 👥 **Сошиалс**
 
-![https://vk.com/kotrik](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=7fa7d4)
-![https://discord.com](https://img.shields.io/badge/KotRik%235754---?logo=discord&style=for-the-badge&color=99AAB5)
-![https://twitter.com/kotrik0](https://img.shields.io/badge/Twitter---?logo=twitter&style=for-the-badge&color=gray)
-![https://twitch.tv/kotrik0](https://img.shields.io/badge/Twitch---?logo=twitch&style=for-the-badge&color=purple)
+[![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=7fa7d4)](https://vk.com/kotrik)
+[![Discord](https://img.shields.io/badge/KotRik%235754---?logo=discord&style=for-the-badge&color=99AAB5)](https://discord.com)
+[![Twitter](https://img.shields.io/badge/Twitter---?logo=twitter&style=for-the-badge&color=gray)](https://twitter.com/kotrik0)
+[![Twitch](https://img.shields.io/badge/Twitch---?logo=twitch&style=for-the-badge&color=purple)](https://twitch.tv/kotrik0)
 
 ---
 
