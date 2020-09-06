@@ -3,7 +3,6 @@
 Ты очутился в магическом профиле ✨KotRik'a✨. Тут можно найти целое ничего!
 
 **Мои проекты, над которыми я работаю:**
-- [Honoka-bot](https://vk.com/honkbot) (Chat-bot VK)
 - [osu!Kurikku](https://kurikku.pw) и его компоненты, которые можно найти на странице [организации](https://github.com/osukurikku) 
 
 ---
