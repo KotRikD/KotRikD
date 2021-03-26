@@ -3,7 +3,8 @@
 Ты очутился в магическом профиле ✨KotRik'a✨. Тут можно найти целое ничего!
 
 **Мои проекты, над которыми я работаю:**
-- [osu!Kurikku](https://kurikku.pw) и его компоненты, которые можно найти на странице [организации](https://github.com/osukurikku) 
+- [osu!Kurikku](https://kurikku.pw) и его компоненты, которые можно найти на странице [организации](https://github.com/osukurikku)
+- [Chimu.moe](https://github.com/Chimu-moe) - преемник [bloodcat.com/osu](https://bloodcat.com/osu), занимаюсь разработкой frontend части
 
 ---
 
@@ -25,8 +26,6 @@
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&link=https://reactjs.org/&style=for-the-badge)](https://reactjs.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-336791?logo=MySQL&logoColor=white&link=https://www.postgresql.org/&style=for-the-badge)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white&link=https://www.postgresql.org/&style=for-the-badge)](https://www.postgresql.org/)
-
-
 <!--
 **KotRikD/KotRikD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
