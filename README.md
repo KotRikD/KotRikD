@@ -1,6 +1,6 @@
-### Дарова 👋
+### Привет 👋
 
-Ты очутился в магическом профиле ✨KotRik'a✨. Тут можно найти целое ничего!
+Ты очутился в магическом профиле ✨KotRik'a✨.
 
 **Мои проекты, над которыми я работаю:**
 - [osu!Kurikku](https://kurikku.pw) и его компоненты, которые можно найти на странице [организации](https://github.com/osukurikku)
@@ -11,7 +11,7 @@
 👥 **Сошиалс**
 
 [![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=7fa7d4)](https://vk.com/kotrik)
-[![Discord](https://img.shields.io/badge/KotRik%231337---?logo=discord&style=for-the-badge&color=99AAB5)](https://discord.com)
+[![Discord](https://img.shields.io/badge/KotRik%235460---?logo=discord&style=for-the-badge&color=99AAB5)](https://discord.com)
 [![Twitter](https://img.shields.io/badge/Twitter---?logo=twitter&style=for-the-badge&color=gray)](https://twitter.com/kotrik0)
 [![Twitch](https://img.shields.io/badge/Twitch---?logo=twitch&style=for-the-badge&color=purple)](https://twitch.tv/kotrik0)
 
