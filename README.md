@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![KotRikD's github stats](https://github-readme-stats.vercel.app/api?username=KotRikD)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotRikD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/KotRikD/KotRikD/blob/main/github-metrics.svg" alt="A lot of Metrics regarding KotRikD's github commit history" width="100%">
