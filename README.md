@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 ---
 
-<img src="https://github.com/KotRikD/KotRikD/blob/main/github-metrics.svg" alt="A lot of Metrics regarding KotRikD's github commit history" width="100%">
+<img src="https://github.com/KotRikD/KotRikD/blob/master/github-metrics.svg" alt="A lot of Metrics regarding KotRikD's github commit history" width="100%">
