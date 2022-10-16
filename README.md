@@ -6,7 +6,6 @@
 **Мои пет-проекты, над которыми я работаю:**
 - [Chimu.moe](https://github.com/Chimu-moe) - преемник [bloodcat.com/osu](https://bloodcat.com/osu), занимаюсь разработкой frontend части
 - [Just watch it!](https://jwi.kotworks.cyou) - просто смотри свои любимые аниме и синхронизируйся с самой большой ру-базой shikimori
-- [osu snipe me](https://osusnipe.me) - проект, направленный, на повышение личных навыков osu! посредством обыгрывания "призраков" с их лучшими скорами
 - ~~[Kurikku](https://kurikku.pw) - сервер по осу!~~
 
 ---
