@@ -4,8 +4,6 @@
 В основном сейчас работаю с фронтэндами базированномы на React, паралелльно пытаюсь избавиться от мысли "сделать плохой бэкэнд" 
 
 **Мои пет-проекты, над которыми я работаю:**
-- [play-osu.ru](https://play-osu.ru) - самые быстрые фасткапы на диком СНГ
-- [Chimu.moe](https://github.com/Chimu-moe) - преемник [bloodcat.com/osu](https://bloodcat.com/osu), занимаюсь разработкой frontend части
 - [Just watch it!](https://jwi.kotworks.cyou) - просто смотри свои любимые аниме и синхронизируйся с самой большой ру-базой shikimori
 - [osu! Community Tournaments](https://github.com/osu-community-tournemnts) - делаем крутые оверлеи для турниров по osu!
 
