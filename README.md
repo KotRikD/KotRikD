@@ -5,7 +5,7 @@
 
 **Мои пет-проекты, над которыми я работаю:**
 - [Just watch it!](https://jwi.kotworks.cyou) - просто смотри свои любимые аниме и синхронизируйся с самой большой ру-базой shikimori
-- [osu! Community Tournaments](https://github.com/osu-community-tournemnts) - делаем крутые оверлеи для турниров по osu!
+- [osu! Community Tournaments](https://github.com/osu-community-tournaments) - делаем крутые оверлеи для турниров по osu!
 
 ---
 
