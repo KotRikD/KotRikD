@@ -12,6 +12,7 @@
 
 👥 **Сошиалс**
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kotrik/)
 [![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=7fa7d4)](https://vk.com/kotrik)
 [![Discord](https://img.shields.io/badge/KotRik---?logo=discord&style=for-the-badge&color=99AAB5)](https://discord.com)
 [![Twitter](https://img.shields.io/badge/Twitter---?logo=twitter&style=for-the-badge&color=gray)](https://twitter.com/kotrik0)
