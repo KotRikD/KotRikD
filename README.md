@@ -1,16 +1,24 @@
-### Привет 👋
+### Hello! 👋
 
-Ты очутился в магическом профиле ✨KotRik'a✨. Здесь творю много чего: полезного и не очень :) 
-В основном работаю с фронтэндами на React, хорошо умею работать с Next.JS и прочими фреймворками на JS (vue/nuxt, fastify/koa, svelte, swc/webpack) 
+Welcome to my profile✨ Here I publish a lot of my developments, useful and not so useful :) Now I work as an interface developer in a large Russian company, but open to any vacancies by email. Some skills, I described below, but if reading this - HR, my current working stack - mainstream web technologies (React/Next.Js (SSR, ISR, SSG), vue+nuxt, various node applications, for example fastify). I have experience working with highly loaded systems, testing applications (E2E, Unit testing) and putting them out somewhere (SSH, Docker, s3).
 
-**Мои пет-проекты, над которыми я работаю:**
-- [Just watch it!](https://jwi.kotworks.cyou) - просто смотри свои любимые аниме и синхронизируйся с самой большой ру-базой shikimori
-- [osu! Community Tournaments](https://github.com/osu-community-tournaments) - делаем крутые оверлеи для турниров по osu!
-- [tosu](https://github.com/KotRikD/tosu) - производительный пассивный ридер памяти osu!
+I'm also into VR worlds and entertainment, so you can look for me in VRC (making avatars/miscellaneous useful utilities) if you want :).
+
+**My pet projects I'm working on:**
+- [Just watch it!](https://jwi.kotworks.cyou) - Just watch your favorite anime and sync your progress with the biggest russian anime database - shikimori 
+- [osu! Community Tournaments](https://github.com/osu-community-tournaments) - Making cool overlays for osu tournaments!
+- [tosu](https://github.com/KotRikD/tosu) (more than 100 stars!✨✨✨) - osu! memory reader to help third-party developers make overlays for streams or tournaments
+
+**Also a few repositories that may inspire you**
+- [vrc_hyperate_chatbox](https://github.com/KotRikD/vrc_hyperate_chatbox) - implementation of internal API hyperate for VRChat's OSC protocol
+- [movies at azumi](https://github.com/KotRikD/movies-at-azumi) - worker-based solution for processing .mp4/.mkv movies into HLS containers and then uploading them to S3
+- (old but gold) [discord oauth2 nginx role checker](https://github.com/KotRikD/nginx-discord-role-auth) - service that allows authorization of a discord user with verification of his role on the server (can be further developed to multiple roles, etc.)
+
+My primary e-mail for hiring, discussions, etc... [i@kotrik.ru](mailto:i@kotrik.ru)
 
 ---
 
-👥 **Сошиалс**
+👥 **Social**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kotrik/)
 [![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=7fa7d4)](https://vk.com/kotrik)
@@ -18,11 +26,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter---?logo=twitter&style=for-the-badge&color=gray)](https://twitter.com/kotrik0)
 [![Twitch](https://img.shields.io/badge/Twitch---?logo=twitch&style=for-the-badge&color=purple)](https://twitch.tv/kotrik0)
 
-А также почта [i@kotrik.ru](mailto:i@kotrik.ru)
-
 ---
 
-:zap: **Рабочий стэк**
+:zap: **Working stack**
 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)](https://www.typescriptlang.org/)
