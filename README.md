@@ -7,7 +7,7 @@ I'm also into VR worlds and entertainment, so you can look for me in VRC (making
 **My pet projects I'm working on:**
 - [Just watch it!](https://jwi.kotworks.cyou) - Just watch your favorite anime and sync your progress with the biggest russian anime database - shikimori 
 - [osu! Community Tournaments](https://github.com/osu-community-tournaments) - Making cool overlays for osu tournaments!
-- [tosu](https://github.com/KotRikD/tosu) (more than 200 stars!✨✨✨) - osu! memory reader to help third-party developers make overlays for streams or tournaments
+- [tosu](https://github.com/KotRikD/tosu) (more than 300 stars!✨✨✨) - osu! memory reader to help third-party developers make overlays for streams or tournaments
 
 **Also a few repositories that may inspire you**
 - [vrc_hyperate_chatbox](https://github.com/KotRikD/vrc_hyperate_chatbox) - implementation of internal API hyperate for VRChat's OSC protocol
